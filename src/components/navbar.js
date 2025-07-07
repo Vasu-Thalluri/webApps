@@ -7,7 +7,7 @@ const Navbar = ()=> {
     <nav className='navbar'>
       <h2>ShopNest</h2>
       <div>
-        <Link to="/">Home</Link> | <Link to="/login">Login</Link> | <Link to="/signup">Signup</Link>
+        <Link to="/">Home</Link> | <Link to="/login">Login</Link> | <Link to="/signup">Signup</Link> | <Link to="/product">Products</Link>
       </div>
     </nav>
   )
