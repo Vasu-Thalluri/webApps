@@ -1,0 +1,31 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop",
+            "price": 999.99,
+            "description": "A high-performance laptop suitable for gaming and professional work."
+        },
+        {
+            "id": 2,
+            "name": "Mobile Phone",
+            "price": 999.99,
+            "description": "A high-performance mobile phone suitable for gaming and browsing with AI features."
+        },
+        {
+            "id": 1,
+            "name": "pendrive",
+            "price": 999.99,
+            "description": "A 32GB storage pendrive for professional work."
+        },
+        {
+            "id": 1,
+            "name": "Shoe",
+            "price": 999.99,
+            "description": "A comfortable shoe for professional work."
+        }
+    ],
+    
+    "users": []
+        
+}
